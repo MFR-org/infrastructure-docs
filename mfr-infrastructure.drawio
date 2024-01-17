@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-16T23:57:54.977Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="tjjoB0r7OuP451LtgTbJ" version="22.1.18" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-17T01:05:34.809Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:121.0) Gecko/20100101 Firefox/121.0" etag="-GtAX_RYZe9jGGAWXn4_" version="22.1.18" type="github">
   <diagram name="Page-1" id="tZtbLo5tzvzhx0-98deW">
     <mxGraphModel dx="880" dy="595" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="ljXd4iEbn0Exki69qa5f-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" parent="ljXd4iEbn0Exki69qa5f-15" source="ljXd4iEbn0Exki69qa5f-8" target="ljXd4iEbn0Exki69qa5f-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ljXd4iEbn0Exki69qa5f-30" value="&lt;div&gt;NodeProxy&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="ljXd4iEbn0Exki69qa5f-15" vertex="1">
+        <mxCell id="ljXd4iEbn0Exki69qa5f-30" value="&lt;div&gt;ProviderProxy&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" parent="ljXd4iEbn0Exki69qa5f-15" vertex="1">
           <mxGeometry x="410" y="160" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="80AS8j_c43-dy3-31Z2r-1" value="&lt;div&gt;EmailProxy&lt;/div&gt;" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.lambda_function;fillColor=#F58534;gradientColor=none;" vertex="1" parent="ljXd4iEbn0Exki69qa5f-15">
